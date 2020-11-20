@@ -1,6 +1,6 @@
 ## BUSINESS PROJECT: Laura and Mei
 
-### TASK 1 
+# TASK 1 
 
 The business consists on offering other businesses the possibility of manufacturing their products with eco-friendly and biodegradable 3D printing. NAICS subsectors 339. Industries in the Miscellaneous Manufacturing subsector make a wide range of products that cannot readily be classified in specific NAICS subsectors in manufacturing. 
 
@@ -9,15 +9,15 @@ Mission statement: Help make the world a cleaner place.
 Main stakeholders: Customers and local communities. 
 
 
-### TASK 2 
+# TASK 2 
 
 CR4=4,76+3,46+3.26+2,67=14,15% 
 Due to the results, we can conclude that the miscellaneous manufacturing industry (NAICS 3399) is a very competitive industry (CR4<40%). 
 
 The biggest four industries are: Joyería Fina SL, Fábricas Agrupadas  de Muñecas de Onil SA, Orvalencia SL, BIC-Iberia SAU. 
-![Tab](https://ecopress.github.io/GetImage(3).png) 
+![Tab](https://EcoPress.github.io/GetImage(3).png) 
 
-### TASK 3 
+# TASK 3 
 
 Most of the companies of our sector are public limited companies. 
 Our company is going to be a private limited company.  The reasons why we have chosen this type of company are: 
@@ -25,34 +25,34 @@ Our company is going to be a private limited company.  The reasons why we have
 - We can have limited liability, it is an  advantage because in case we cannot pay the debt our personal assets are not at risk. 
 - Because we are a small company, we cannot afford to set up a public limited company  
 
-### TASK 4
+# TASK 4
 
-# SWOT Analysis 
+### SWOT Analysis 
 
-# OPPORTUNITIES:  
+### OPPORTUNITIES:  
 - Our business would make products with biodegradable materials so it is an advantage because people nowadays are more interested in this type of products because of climate change. 
 - Low concentration ratio in our industry. 
 
-# THREATS:  
+### THREATS:  
 - The COVID-19 crisis, the bigger business which make the same as our business but with non-biodegradable products so the price is lower. 
 
-# STRENGTHS:  
+### STRENGTHS:  
 - The materials that we are going to use for the 3D printer is cheap so the costs of the products would be cheaper and that could be an advantage. 
 
-# WEAKNESSES:  
+### WEAKNESSES:  
 - In our business we make different types of products so we will need more different molds so we would need to spend more money. We are a small business so we do not have so much money. 
 
-# Business strategy 
+### Business strategy 
 
 We are going to mix both business strategies. We will try to reduce costs by using the cheaper materials so that way the products would  also be cheaper. On the other hand, we will also focus on delivering outstanding products with additional characteristics. So our products will be different because they are made with biodegradable materials and you can customize the product. 
 
-### TASK 5
-![Current assets vs shareholder funds graph](https://ecopress.github.io/GetImage.png)
-![Operating Revenue vs P/L](https://ecopress.github.io/GetImage(1).png)
+# TASK 5
+![Current assets vs shareholder funds graph](https://EcoPress.github.io/GetImage.png)
+![Operating Revenue vs P/L](https://EcoPress.github.io/GetImage(1).png)
 
-### Task 6 
+# Task 6 
 
-# Playmobil iberica SAU 
+### Playmobil iberica SAU 
 Current ratio= current assets/current liabilities: 34,480,297/19,736,443=1.75 
 This means that for every 1euro for current liabilities, the business has 1.75euros of current assets. This is a promising number. 
 
@@ -78,12 +78,12 @@ This means that the company earned 0.24€ on every euro invested by its owners.
 
 As a conclusion, we could say that this company's financial health is really good. 
 
-### TASK 7
+# TASK 7
 
 Multifactor productivity has no clear tendency in this industry, as the graph is very irregular. The decrease in 2009 is probably because of the recession, and the peak was in 2011. 
-![Multifactor productivity graph](https://ecopress.github.io/GetImage(2).png)
+![Multifactor productivity graph](https://EcoPress.github.io/GetImage(2).png)
 
-### TASK 8
+# TASK 8
 [3D Printing Dashboard in tableau](https://public.tableau.com/profile/laura8853#!/vizhome/BPproject/Dashboard1?publish=yes)
 
 
