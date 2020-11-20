@@ -1,7 +1,7 @@
 ## BUSINESS PROJECT: Laura and Mei
 
 # TASK 1 
-
+![Logo](https://EcoPress.github.io/logo.png) 
 The business consists on offering other businesses the possibility of manufacturing their products with eco-friendly and biodegradable 3D printing. NAICS subsectors 339. Industries in the Miscellaneous Manufacturing subsector make a wide range of products that cannot readily be classified in specific NAICS subsectors in manufacturing. 
 
 Name: EcoPress 
